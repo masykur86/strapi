@@ -1,0 +1,8 @@
+{
+    "provider": "cloudinary",
+    "providerOptions": {
+      "cloud_name": "my-portofolio",
+      "api_key": "376429718224997",
+      "api_secret": "qMTJDhq2maXfwcWcSe-8CU7Hd6o"
+    }
+  }
